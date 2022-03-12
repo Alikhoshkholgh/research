@@ -1,0 +1,13 @@
+	+ PE file structure
+
+---------------------------------------->> structure overview:
+
+		+ DOS Header
+		+ DOS Stub
+		+ NT Headers
+		+ Section Table:
+			+ section-1
+			+ section-2
+			+ section-3
+			+ ....
+			+ section-n
